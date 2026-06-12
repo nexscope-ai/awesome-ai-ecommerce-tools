@@ -125,12 +125,19 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce brands needing precise product imagery and marketing visuals
 - **AI capabilities**: Advanced text-to-image synthesis, complex prompt understanding, iterative editing
 
-**[Flux.2](https://flux.ai)** - Next-generation AI image model
-- **What it does**: High-quality product photography and ecommerce visuals with consistent branding
-- **Key features**: Product consistency system, background replacement, multiple image models, commercial usage
-- **Pricing**: $29-$99/month
-- **Best for**: E-commerce businesses requiring consistent product photography
-- **AI capabilities**: Product consistency across shots, advanced style control, commercial optimization
+**[Nano Banana 2](https://gemini.google/overview/image-generation/)** - Google's advanced AI image model
+- **What it does**: Fast, production-ready image generation with advanced world knowledge and subject consistency
+- **Key features**: 512px-4K resolution, real-time web search integration, 14 reference images, 14 aspect ratios, Flash speed
+- **Pricing**: Available through Gemini Pro ($20/month)
+- **Best for**: E-commerce brands needing fast, consistent product imagery with web-aware context
+- **AI capabilities**: Advanced world knowledge, subject consistency, multi-reference processing, production-grade specs
+
+**[Nexscope Image Generator](https://www.nexscope.ai/seller/image-generation?co-from=github)** - AI image generation for ecommerce sellers
+- **What it does**: Specialized AI image generation integrated into the Nexscope ecommerce workflow
+- **Key features**: Ecommerce-optimized prompts, product photography styles, marketing asset templates, workflow integration
+- **Pricing**: Included with Nexscope plans (Freemium model)
+- **Best for**: Nexscope users needing integrated image generation within their ecommerce research workflow
+- **AI capabilities**: Ecommerce-tuned models, workflow integration, context-aware generation
 
 **[Midjourney v7](https://www.midjourney.com)** - Leading aesthetic AI image generation
 - **What it does**: Artistic and lifestyle product images with unmatched visual quality
@@ -146,14 +153,21 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: Professional designers, large e-commerce brands, agencies
 - **AI capabilities**: Commercial-trained models, Creative Cloud workflow integration, brand asset consistency
 
-**[getimg.ai](https://getimg.ai)** - Multi-model AI image platform for ecommerce
-- **What it does**: 16+ AI models including FLUX.2, GPT Image 2, optimized for ecommerce product images
-- **Key features**: Multiple model access, Elements system for consistency, background replacement, product focus
-- **Pricing**: Free tier available, Pro from $12/month
-- **Best for**: E-commerce sellers needing variety and consistency
-- **AI capabilities**: Multi-model access, product-focused optimization, consistency tools
-
 ### Video Content
+
+**[Seedance 2.0](https://www.seedance.tv)** - ByteDance's advanced AI video generation
+- **What it does**: Professional-grade cinematic video generation with improved temporal consistency and physics-based motion
+- **Key features**: Cinematic output, native audio generation, real-world physics simulation, director-level camera control, faster generation speed
+- **Pricing**: Free tier available with API access via fal.ai
+- **Best for**: Professional content creators, e-commerce brands needing cinematic product videos
+- **AI capabilities**: Advanced temporal consistency, physics-based motion, improved prompt understanding, higher resolution output
+
+**[Veo 3.1](https://deepmind.google/models/veo/)** - Google DeepMind's latest video model
+- **What it does**: State-of-the-art video generation with visually realistic physics and Google Workspace integration
+- **Key features**: Realistic physics simulation, AI music composition, AI avatars, Google Vids integration, superior visual quality
+- **Pricing**: Available through Google Workspace (pricing varies)
+- **Best for**: Enterprise users, Google Workspace customers, professional video production
+- **AI capabilities**: Advanced physics modeling, multi-modal generation (video + audio), superior visual realism
 
 **[Sora](https://openai.com/sora)** - OpenAI's cinematic AI video generator
 - **What it does**: Creates high-quality product demonstration videos, lifestyle content, and cinematic marketing videos
@@ -175,20 +189,6 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Pricing**: $22-$90/month
 - **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
-
-**[Pictory](https://pictory.ai)** - AI video creation from text
-- **What it does**: Converts blog posts, product descriptions into engaging videos
-- **Key features**: Auto-captioning, voice synthesis, stock footage integration, AI-powered editing
-- **Pricing**: $19-$99/month
-- **Best for**: Content marketers, social media managers, product storytelling
-- **AI capabilities**: Text-to-video conversion, automatic editing, voice cloning
-
-**[Invideo AI](https://invideo.io)** - AI-powered video creation for marketing
-- **What it does**: Creates marketing videos, product promos, and social media content from text prompts
-- **Key features**: Text-to-video, voice cloning, automated editing, template library
-- **Pricing**: Free plan available, Pro from $20/month  
-- **Best for**: Social media marketers, e-commerce brands, content creators
-- **AI capabilities**: Automated video creation, voice synthesis, intelligent editing
 
 ---
 
