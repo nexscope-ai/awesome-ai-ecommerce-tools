@@ -118,42 +118,77 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 ### Visual Content Creation
 
-**[Midjourney](https://www.midjourney.com)** - AI image generation
-- **What it does**: Creates high-quality product images, lifestyle photos, and marketing visuals
-- **Key features**: Photorealistic image generation, style customization, batch processing
-- **Pricing**: $10-$60/month
-- **Best for**: E-commerce brands needing product imagery
-- **AI capabilities**: Text-to-image generation, style transfer, creative enhancement
+**[GPT Image 2](https://openai.com/gpt-image)** - OpenAI's latest image generation model
+- **What it does**: State-of-the-art text-to-image generation with exceptional prompt understanding for ecommerce visuals
+- **Key features**: Complex instruction handling, precise prompt execution, individual element editing, high accuracy
+- **Pricing**: Pay-per-use, integrated with ChatGPT Plus ($20/month)
+- **Best for**: E-commerce brands needing precise product imagery and marketing visuals
+- **AI capabilities**: Advanced text-to-image synthesis, complex prompt understanding, iterative editing
 
-**[DALL-E 2](https://openai.com/dall-e-2)** - OpenAI's image generation
-- **What it does**: Generates product images, concepts, and marketing visuals from text descriptions
-- **Key features**: High-resolution images, editing capabilities, commercial usage rights
-- **Pricing**: Pay-per-use, starting at $0.02/image
-- **Best for**: Creative professionals, e-commerce brands
-- **AI capabilities**: Advanced text-to-image synthesis, inpainting, variations
+**[Flux.2](https://flux.ai)** - Next-generation AI image model
+- **What it does**: High-quality product photography and ecommerce visuals with consistent branding
+- **Key features**: Product consistency system, background replacement, multiple image models, commercial usage
+- **Pricing**: $29-$99/month
+- **Best for**: E-commerce businesses requiring consistent product photography
+- **AI capabilities**: Product consistency across shots, advanced style control, commercial optimization
 
-**[Stable Diffusion](https://stability.ai)** - Open-source image generation
-- **What it does**: Free AI image generation for product photos, concepts, and marketing materials
-- **Key features**: Open source, customizable models, commercial friendly
-- **Pricing**: Free (open source) or hosted solutions vary
-- **Best for**: Technical users, cost-conscious businesses
-- **AI capabilities**: Customizable models, fine-tuning, style control
+**[Midjourney v7](https://www.midjourney.com)** - Leading aesthetic AI image generation
+- **What it does**: Artistic and lifestyle product images with unmatched visual quality
+- **Key features**: Superior aesthetics, style customization, batch processing, artistic interpretation
+- **Pricing**: $10-$120/month
+- **Best for**: Premium brands focusing on artistic product presentation
+- **AI capabilities**: Artistic interpretation, advanced style transfer, creative enhancement
+
+**[Adobe Firefly](https://www.adobe.com/products/firefly.html)** - Commercial-safe AI image generation
+- **What it does**: AI image generation with full commercial rights and Creative Cloud integration
+- **Key features**: Commercial safety, Photoshop integration, brand consistency, multiple AI models
+- **Pricing**: $4.99-$22.99/month (Creative Cloud plans)
+- **Best for**: Professional designers, large e-commerce brands, agencies
+- **AI capabilities**: Commercial-trained models, Creative Cloud workflow integration, brand asset consistency
+
+**[getimg.ai](https://getimg.ai)** - Multi-model AI image platform for ecommerce
+- **What it does**: 16+ AI models including FLUX.2, GPT Image 2, optimized for ecommerce product images
+- **Key features**: Multiple model access, Elements system for consistency, background replacement, product focus
+- **Pricing**: Free tier available, Pro from $12/month
+- **Best for**: E-commerce sellers needing variety and consistency
+- **AI capabilities**: Multi-model access, product-focused optimization, consistency tools
 
 ### Video Content
 
-**[Synthesia](https://www.synthesia.io)** - AI video creation with avatars
+**[Sora](https://openai.com/sora)** - OpenAI's cinematic AI video generator
+- **What it does**: Creates high-quality product demonstration videos, lifestyle content, and cinematic marketing videos
+- **Key features**: Cinematic quality, realistic physics, complex scene generation, 60-second videos
+- **Pricing**: Available through ChatGPT Plus ($20/month), limited beta access
+- **Best for**: Premium brands, cinematic product showcases, lifestyle marketing
+- **AI capabilities**: Physics simulation, complex scene understanding, cinematic video generation
+
+**[Runway ML](https://runwayml.com)** - Professional AI video creation platform
+- **What it does**: Advanced video generation, editing, and enhancement for marketing content
+- **Key features**: Gen-3 Alpha model, video-to-video, motion brush, green screen replacement
+- **Pricing**: Free tier available, Pro from $15/month
+- **Best for**: Video creators, marketing teams, content agencies
+- **AI capabilities**: Advanced video generation, real-time editing, motion control
+
+**[Synthesia](https://www.synthesia.io)** - AI avatar video creation
 - **What it does**: Creates product demo videos, tutorials, and marketing content with AI avatars
-- **Key features**: Multiple languages, custom avatars, script-to-video conversion
-- **Pricing**: $30-$90/month
-- **Best for**: E-commerce education, product demonstrations
+- **Key features**: 160+ AI avatars, 130+ languages, custom avatars, script-to-video conversion
+- **Pricing**: $22-$90/month
+- **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
 
 **[Pictory](https://pictory.ai)** - AI video creation from text
 - **What it does**: Converts blog posts, product descriptions into engaging videos
-- **Key features**: Auto-captioning, voice synthesis, stock footage integration
+- **Key features**: Auto-captioning, voice synthesis, stock footage integration, AI-powered editing
 - **Pricing**: $19-$99/month
-- **Best for**: Content marketers, social media managers
+- **Best for**: Content marketers, social media managers, product storytelling
 - **AI capabilities**: Text-to-video conversion, automatic editing, voice cloning
+
+**[Invideo AI](https://invideo.io)** - AI-powered video creation for marketing
+- **What it does**: Creates marketing videos, product promos, and social media content from text prompts
+- **Key features**: Text-to-video, voice cloning, automated editing, template library
+- **Pricing**: Free plan available, Pro from $20/month  
+- **Best for**: Social media marketers, e-commerce brands, content creators
+- **AI capabilities**: Automated video creation, voice synthesis, intelligent editing
 
 ---
 
