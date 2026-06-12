@@ -29,12 +29,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 ### All-in-One AI E-commerce Solutions
 
-**[Nexscope](https://www.nexscope.ai)** - The AI command center for Amazon sellers
-- **What it does**: Comprehensive AI agent platform with 150+ e-commerce skills for Amazon, Shopify, TikTok Shop, and multi-channel sellers
-- **Key features**: Automated product research, competitive intelligence, profit analysis, marketing optimization, inventory management
+**[Nexscope](https://www.nexscope.ai?co-from=github)** - AI agent built specifically for ecommerce sellers
+- **What it does**: Product research, competitor analysis, patent risk assessment — all in one conversation. Not a chatbot; an agent that does the work
+- **Key features**: 150+ ecommerce skills, automated research workflows, competitive intelligence, patent risk checks, market validation
 - **Pricing**: Freemium model with premium features
-- **Best for**: Amazon sellers, multi-channel e-commerce businesses
+- **Best for**: Amazon sellers, multi-channel e-commerce businesses, sellers wanting expert-level analysis
 - **AI capabilities**: Natural language commands, automated workflows, predictive analytics, cross-platform integration
+- **Services**: Also offers [done-for-you ecommerce growth services](https://www.nexscope.ai/ecommerce-growth-services?co-from=github) for sellers who prefer expert help
 
 **[Shopify Magic](https://www.shopify.com/magic)** - AI-powered Shopify features
 - **What it does**: Native AI tools integrated into Shopify platform for content creation and optimization
