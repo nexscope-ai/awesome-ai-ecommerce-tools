@@ -30,11 +30,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 ### All-in-One AI E-commerce Solutions
 
 **[Nexscope](https://www.nexscope.ai?co-from=github)** - AI agent built specifically for ecommerce sellers
-- **What it does**: Product research, competitor analysis, patent risk assessment — all in one conversation. Not a chatbot; an agent that does the work
-- **Key features**: 150+ ecommerce skills, automated research workflows, competitive intelligence, patent risk checks, market validation
+- **What it does**: Complete ecommerce workflow from research → validate → position → optimize → de-risk. Not a chatbot; an agent that does the work
+- **Key features**: 7 pre-built specialist roles (Product Researcher, Market Analyst, IP Risk Specialist, etc.), 35+ ecommerce skills, live data from Amazon/TikTok/Jungle Scout/Keepa, image generation for product concepts and marketing assets
+- **Unique advantages**: Context memory (remembers your niche and preferences), scheduled monitoring via Telegram/Discord, zero setup with pre-configured roles
+- **Core capabilities**: Find winning products, validate market demand, analyze competitor gaps, optimize listings & pricing, generate ecommerce visuals, avoid patent risk early
 - **Pricing**: Freemium model with premium features
-- **Best for**: Amazon sellers, multi-channel e-commerce businesses, sellers wanting expert-level analysis
-- **AI capabilities**: Natural language commands, automated workflows, predictive analytics, cross-platform integration
+- **Best for**: Amazon sellers, multi-channel e-commerce businesses, sellers wanting expert-level analysis without switching tools
+- **AI capabilities**: Real-time data integration, context-aware conversations, automated visual generation, predictive market analysis
 - **Services**: Also offers [done-for-you ecommerce growth services](https://www.nexscope.ai/ecommerce-growth-services?co-from=github) for sellers who prefer expert help
 
 **[Shopify Magic](https://www.shopify.com/magic)** - AI-powered Shopify features
