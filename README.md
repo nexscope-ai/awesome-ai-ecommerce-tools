@@ -4,7 +4,7 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-50+-brightgreen)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202026-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue)
 
 ## Contents
 
