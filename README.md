@@ -226,6 +226,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: Businesses wanting custom voice experiences
 - **AI capabilities**: Natural language processing, conversation design, voice synthesis
 
+**[Hermes](https://buildwithhermes.com)** - Voice AI agent platform for client-facing calls
+- **What it does**: Deploys phone-based AI voice agents that answer inbound customer calls, confirm orders and appointments, and run outbound follow-up campaigns
+- **Key features**: Voice agent builder, native CRM, inbound/outbound campaign orchestration, white-label workspaces, usage-based billing
+- **Pricing**: From $149/month (300 included minutes), Business $399/month, Agency $699/month
+- **Best for**: Agencies and teams running voice agents for multiple stores or clients
+- **AI capabilities**: Real-time voice conversations, knowledge base grounding, call analytics
+
 ---
 
 ## Pricing & Revenue Optimization
