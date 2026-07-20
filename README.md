@@ -404,6 +404,12 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Pricing**: $170-$750/month
 - **Best for**: Content teams, e-commerce brands
 - **AI capabilities**: NLP content analysis, semantic keyword suggestions, content scoring
+**[Screpy](https://screpy.com/)** - AI-assisted SEO monitoring for ecommerce websites
+- **What it does**: Audits store pages and tracks technical SEO, rankings, page speed, and availability.
+- **Key features**: Website audits, keyword rank tracking, Core Web Vitals monitoring, uptime alerts, and editable AI article drafts.
+- **Pricing**: Starts at $16/month; free trial available.
+- **Best for**: Ecommerce teams monitoring product, category, and campaign pages.
+- **AI capabilities**: Generates structured SEO article drafts and supports AI-assisted SEO workflows.
 
 ### Content Optimization
 
