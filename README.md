@@ -49,6 +49,7 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 ---
 
 ## Product Research & Analysis
+- [Trends MCP](https://trendsmcp.ai) - Ecommerce demand and trend intelligence API/MCP (Amazon, TikTok Shop, Google Shopping).
 
 ### Market Research & Validation
 
