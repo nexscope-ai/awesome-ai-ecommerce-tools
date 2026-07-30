@@ -537,3 +537,4 @@ This awesome list is licensed under [CC0 1.0 Universal](LICENSE).
 ## Disclaimer
 
 This list is for informational purposes only. We are not affiliated with any of the listed tools unless specifically mentioned. Always verify current pricing and features directly with the providers.
+- [Trends MCP](https://trendsmcp.ai) - Amazon / shopping / TikTok trend signals via API or MCP. Free tier.
