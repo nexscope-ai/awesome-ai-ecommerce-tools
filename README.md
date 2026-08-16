@@ -190,6 +190,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
 
+**[videos.social](https://videos.social/?utm_source=nexscope-awesome-ai-ecommerce-tools&utm_medium=directory&utm_campaign=listing-wave-d)** - Blog and product-page to editable faceless video
+- **What it does**: Turns blogs, PDFs, and prompts into an editable faceless draft instead of a locked regenerate loop
+- **Key features**: Blog-to-video, PDF-to-video, prompt-to-video, scene-level editing, 1 free render
+- **Pricing**: 1 free render, then packs from $10 (1 credit = 1 render)
+- **Best for**: Content marketers and e-commerce teams turning product pages or posts into video
+- **AI capabilities**: Source-to-scene structure, editable draft, faceless default
+
 ---
 
 ## Customer Service & Support
