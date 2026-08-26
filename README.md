@@ -225,6 +225,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: Businesses wanting custom voice experiences
 - **AI capabilities**: Natural language processing, conversation design, voice synthesis
 
+**[Workforce Wave](https://www.workforcewave.com)** - AI voice agents for phone-based customer service
+- **What it does**: Answers and makes phone calls for e-commerce and SMB support teams — handles inbound order/support calls, books appointments, and runs outbound follow-up campaigns 24/7
+- **Key features**: Multilingual voice agents, appointment scheduling, HIPAA-compliant option, live call handoff
+- **Pricing**: Custom pricing, contact for quote
+- **Best for**: E-commerce and SMB teams wanting to automate phone-based customer service without hiring more reps
+- **AI capabilities**: Real-time voice conversation, intent recognition, CRM/booking integration
+
 ---
 
 ## Pricing & Revenue Optimization
