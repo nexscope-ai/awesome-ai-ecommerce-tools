@@ -29,14 +29,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 ### All-in-One AI E-commerce Solutions
 
-**[Nexscope](https://www.nexscope.ai?co-from=github)** - AI agent built specifically for ecommerce sellers
-- **What it does**: Complete ecommerce workflow from research → validate → position → optimize → de-risk. Not a chatbot; an agent that does the work
-- **Key features**: 7 pre-built specialist roles (Product Researcher, Market Analyst, IP Risk Specialist, etc.), 35+ ecommerce skills, live data from Amazon/TikTok/Jungle Scout/Keepa, image generation for product concepts and marketing assets
-- **Unique advantages**: Context memory (remembers your niche and preferences), scheduled monitoring via Telegram/Discord, zero setup with pre-configured roles
-- **Core capabilities**: Find winning products, validate market demand, analyze competitor gaps, optimize listings & pricing, generate ecommerce visuals, avoid patent risk early
-- **Pricing**: Freemium model with premium features
-- **Best for**: Amazon sellers, multi-channel e-commerce businesses, sellers wanting expert-level analysis without switching tools
-- **AI capabilities**: Real-time data integration, context-aware conversations, automated visual generation, predictive market analysis
+**[Nexscope](https://www.nexscope.ai?co-from=github)** - Ecommerce data and creative platform for online sellers
+- **What it does**: Combines marketplace intelligence with online image and video generators and developer APIs
+- **Data capabilities**: Product, keyword, pricing, review, ranking, seller, store, sourcing, advertising, and compliance research across supported ecommerce sources
+- **Creative capabilities**: Browser-based image and video generation plus documented Creative APIs for models and reusable ecommerce workflows
+- **Developer access**: REST APIs for Data and Creative capabilities, with MCP and reusable Skills available for supported Data API workflows
+- **Best for**: Sellers, ecommerce teams, developers, and agencies that need research data and product-content tools in one platform
+- **AI capabilities**: Image and video generation, editing, enhancement, virtual try-on, and structured workflows where documented
 - **Services**: Also offers [done-for-you ecommerce growth services](https://www.nexscope.ai/ecommerce-growth-services?co-from=github) for sellers who prefer expert help
 
 **[Shopify Magic](https://www.shopify.com/magic)** - AI-powered Shopify features
