@@ -152,6 +152,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: Professional designers, large e-commerce brands, agencies
 - **AI capabilities**: Commercial-trained models, Creative Cloud workflow integration, brand asset consistency
 
+**[Lunalisa](https://luna-lisa.art)** - AI creative workspace for product photography and marketing visuals
+- **What it does**: Generates and edits product photos, marketing posters, and white-background listing images from text prompts or reference media, then extends approved stills into motion
+- **Key features**: 13 image models and 22 video models (including Nano Banana, Seedream, GPT Image 2, Kling, Veo), stills up to 1K/2K/4K across 16 aspect ratios, image-to-video and video-to-video
+- **Pricing**: Freemium, new accounts start on free credits
+- **Best for**: Ecommerce sellers, designers, and creative teams producing listing and marketing imagery
+- **AI capabilities**: Multi-model text-to-image and image-to-video generation, reference-based editing, product-focused workflows
+
 ### Video Content
 
 **[Seedance 2.0](https://www.seedance.tv)** - ByteDance's advanced AI video generation
