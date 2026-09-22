@@ -47,6 +47,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 ---
 
+**[Orkas](https://orkas.ai/use/ecommerce/?source=gh_nexcommerce)** - Local-first desktop AI workforce for seller workflows
+- **What it does**: Lets sellers load their own reports, costs, product data, and reviews so specialist agents can review margins, research products and competitors, and prepare listings and creative assets
+- **Key features**: Commander-planned workflows, evidence-linked analysis, reviewable drafts, product copy, images, and video
+- **Pricing**: Free and open-source edition; optional model-provider usage may have separate costs
+- **Best for**: Online sellers and ecommerce teams reviewing product opportunities and preparing product content
+- **AI capabilities**: Coordinated research, analysis, writing, image, and video specialists working from seller-provided inputs
+
 ## Product Research & Analysis
 
 ### Market Research & Validation
