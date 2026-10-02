@@ -189,6 +189,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
 
+**[VideoGen](https://videogen.io/video-editor-for-ecommerce)** - AI video creation for e-commerce product marketing
+- **What it does**: Builds editable product videos and ads from planned storyboards, product imagery, or scripts
+- **Key features**: Scene-by-scene storyboard planning, AI-generated visuals, editable video projects, multiple ad formats
+- **Pricing**: From $19 per user/month, billed yearly
+- **Best for**: E-commerce brands and agencies creating product ads
+- **AI capabilities**: Generates scene visuals, voiceovers, and video assets from user direction
+
 ---
 
 ## Customer Service & Support
