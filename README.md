@@ -390,6 +390,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 
 ### SEO Tools
 
+**[Dondo](https://www.dondo.com/)** - Product listing SEO, AI-search readiness, and product photography
+- **What it does**: Evaluates product listings and prepares copy and image drafts for merchants to review, edit, and approve before publishing or exporting
+- **Key features**: Product SEO and AI-search readiness checks, title and description drafts, images from existing product photos, bulk review, platform-specific publishing or file export
+- **Pricing**: Free initial product score; Team 20 starts at US$12/month or US$120/year for 20 products
+- **Best for**: Ecommerce teams improving product catalogs across supported stores and marketplaces
+- **AI capabilities**: Product-content analysis, product copy generation, and studio, lifestyle, social, and ad image generation
+
 **[Surfer SEO](https://surferseo.com)** - AI-powered SEO optimization
 - **What it does**: Content optimization, keyword research, and SERP analysis
 - **Key features**: Content editor, SERP analyzer, keyword clustering
