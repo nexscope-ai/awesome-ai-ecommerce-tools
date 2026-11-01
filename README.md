@@ -189,6 +189,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
 
+**[makeaicreator](https://makeaicreator.com)** - Face-consistent AI influencer photos and videos for product placement
+- **What it does**: Designs a virtual creator from a plain-language persona and generates photos, voiceover videos, and script-split long videos that keep the same face, for posts and product placement scenes the user owns outright
+- **Key features**: Consistent face anchoring across every photo and video, natural voiceovers, script-to-scene long videos, in-app templates and guides, product placement scenes
+- **Pricing**: Credit-based subscriptions with top-up packs; see site for current plans
+- **Best for**: E-commerce brands and solo sellers needing repeatable product-in-hand creatives without shoots
+- **AI capabilities**: Identity-anchored image and video generation, voiceover synthesis, script-to-scene video assembly
+
 ---
 
 ## Customer Service & Support
