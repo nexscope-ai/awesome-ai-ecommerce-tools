@@ -189,6 +189,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce education, product demonstrations, multilingual content
 - **AI capabilities**: Text-to-speech, avatar animation, multi-language support
 
+**[RemakeThat](https://remakethat.com/)** - Faceless affiliate video remakes from proven winning clips
+- **What it does**: Turns a linked winning TikTok or Facebook video into an original faceless video starring your AI creator, with an AI-written script
+- **Key features**: Winner-remake workflow, original script per video, AI creator avatars, series output for daily posting
+- **Pricing**: Subscription with credits
+- **Best for**: Affiliate sellers posting faceless product videos daily
+- **AI capabilities**: Script writing from a linked video brief, faceless AI-creator rendering
+
 ---
 
 ## Customer Service & Support
