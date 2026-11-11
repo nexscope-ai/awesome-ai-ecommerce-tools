@@ -33,10 +33,12 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **What it does**: Combines marketplace intelligence with online image and video generators and developer APIs
 - **Data capabilities**: Product, keyword, pricing, review, ranking, seller, store, sourcing, advertising, and compliance research across supported ecommerce sources
 - **Creative capabilities**: Browser-based image and video generation plus documented Creative APIs for models and reusable ecommerce workflows
-- **Developer access**: REST APIs for Data and Creative capabilities, with MCP and reusable Skills available for supported Data API workflows
+- **Developer access**: REST APIs and MCP tools for documented data and creative capabilities; supported connection methods and requirements are listed in each tool’s documentation
 - **Best for**: Sellers, ecommerce teams, developers, and agencies that need research data and product-content tools in one platform
 - **AI capabilities**: Image and video generation, editing, enhancement, virtual try-on, and structured workflows where documented
 - **Services**: Also offers [done-for-you ecommerce growth services](https://www.nexscope.ai/ecommerce-growth-services?co-from=github) for sellers who prefer expert help
+
+[Explore MCP tools →](https://www.nexscope.ai/mcp?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-ai-ecommerce-tools_readme_mcp) · [View API docs →](https://www.nexscope.ai/api-docs?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-ai-ecommerce-tools_readme_api)
 
 **[Shopify Magic](https://www.shopify.com/magic)** - AI-powered Shopify features
 - **What it does**: Native AI tools integrated into Shopify platform for content creation and optimization
@@ -131,12 +133,12 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: E-commerce brands needing fast, consistent product imagery with web-aware context
 - **AI capabilities**: Advanced world knowledge, subject consistency, multi-reference processing, production-grade specs
 
-**[Nexscope Image Generator](https://www.nexscope.ai/seller/image-generation?co-from=github)** - AI image generation for ecommerce sellers
+**[Nexscope Image Generator](https://www.nexscope.ai/tools/ai-image-generator?co-from=github)** - AI image generation for ecommerce sellers
 - **What it does**: Specialized AI image generation integrated into the Nexscope ecommerce workflow
 - **Key features**: Ecommerce-optimized prompts, product photography styles, marketing asset templates, workflow integration
-- **Pricing**: Included with Nexscope plans (Freemium model)
+- **Access**: Sign-in is required to generate. Credit usage varies by model and settings; review the live estimate before submitting.
 - **Best for**: Nexscope users needing integrated image generation within their ecommerce research workflow
-- **AI capabilities**: Ecommerce-tuned models, workflow integration, context-aware generation
+- **AI capabilities**: Text-to-image and reference-image generation with the inputs and controls supported by the selected model
 
 **[Midjourney v7](https://www.midjourney.com)** - Leading aesthetic AI image generation
 - **What it does**: Artistic and lifestyle product images with unmatched visual quality
