@@ -88,6 +88,13 @@ Maintenance review: November 11, 2026. Prices, model versions, and access limits
 
 **[Adobe Firefly](https://www.adobe.com/products/firefly.html)** — Adobe’s generative creative tools for images and other media. Check the selected feature’s usage and licensing terms.
 
+**[Reletter](https://aiedittextinimage.com/)** - OCR and image text editing for product graphics
+- **What it does**: Replaces text already present in a product photo, label, or offer graphic.
+- **Key features**: English and Chinese OCR, individual text-region editing, browser-local standard editing, and optional Pro redraw.
+- **Pricing**: Standard editing and watermarked previews are free. Clean PNG exports use 5 credits, and Pro redraws use 10 credits including download. Credit packs start at $4.99 for 100 credits.
+- **Best for**: Sellers who need to correct a label or price in an existing image without a layered source file.
+- **AI capabilities**: OCR and AI redraw of a selected region on textured backgrounds.
+
 ### Video Content
 
 **[ByteDance Seedance](https://seed.bytedance.com/en/seedance)** — ByteDance’s video generation model family. Use the official model pages for capabilities and supported access routes.
