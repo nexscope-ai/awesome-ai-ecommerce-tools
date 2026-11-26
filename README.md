@@ -146,6 +146,13 @@ Maintenance review: November 11, 2026. Prices, model versions, and access limits
 
 **[Klaviyo](https://www.klaviyo.com)** — Advanced segmentation and personalization for e-commerce brands
 
+**[Poptin MCP](https://www.poptin.com/mcp/)** — Official hosted connector for email marketing and lead-capture workflows.
+- **What it does**: Connects supported AI assistants to a Poptin account through OAuth.
+- **Key features**: Draft marketing emails for review, compare popup and signup form performance, and build audience segments.
+- **Pricing**: Poptin lists Free and paid plans on its [pricing page](https://www.poptin.com/pricing/); available actions depend on account access.
+- **Best for**: E-commerce teams already using Poptin for signup forms and campaigns.
+- **AI capabilities**: The connected assistant interprets natural-language requests and uses authorized Poptin tools for campaign preparation and analytics.
+
 ---
 
 ## Analytics & Intelligence
